@@ -1,2 +1,6 @@
-# Random_Number_Generaton
+# Random_Number_Generatiomn
+
+
 Generate random numbers in Shiny with R
+
+
